@@ -10,6 +10,7 @@ To clone the app:
 git clone <repository-url>
 cd <app-directory>
 3. Create a Dockerfile
+
 # 1. Use the official Node.js base image
 FROM node:18
 
